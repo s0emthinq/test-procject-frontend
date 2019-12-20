@@ -1,0 +1,15 @@
+﻿{
+  "name": "IIStestProcjectMan",
+  "modelName": "i-i-s-test-procject-man",
+  "className": "Man",
+  "nameSpace": "IIS.testProcject",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
